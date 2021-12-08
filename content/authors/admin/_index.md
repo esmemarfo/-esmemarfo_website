@@ -6,31 +6,31 @@ title: Esme Marfo
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Public Health Undergrad Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The George Washington University
+  url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Writing
+- Social Media
+- Content Strategy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S in Public Health
+    institution: The George Washington University
+    year: 2022
+  - course: Minor in Journalism and Mass Communication
+    institution: The George Washington University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
