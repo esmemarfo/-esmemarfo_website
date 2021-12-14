@@ -16,13 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: typewriter
+- icon: pen
   icon_pack: fas
   name: Writing
-- icon: pen-line
+- icon: keyboard
   icon_pack: fas
   name: Editing
-- icon: clapperboard-play
+- icon: video
   icon_pack: fas
   name: Video Editing
 

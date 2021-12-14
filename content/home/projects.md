@@ -1,3 +1,4 @@
+
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -29,6 +30,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Other
+    tag: Demo
   - name: Other
     tag: Demo
 
