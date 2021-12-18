@@ -39,9 +39,10 @@ experience:
     location: Online
     date_start: '2017-09-01'
     date_end: '2020-06-01'
-    Responsibilites:
+    description: |2-
+        Responsibilities:
     
-     Generate ideas for future stories and features that would interest the magazine’s readers. Perform research on various topics. Stay up to date with current trends. Write features and stories.
+        Generate ideas for future stories and features that would interest the magazine’s readers. Perform research on various topics. Stay up to date with current trends. Write features and stories.
 design:
   columns: '2'
 ---
