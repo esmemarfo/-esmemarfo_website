@@ -14,7 +14,7 @@ organizations:
   url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include multimedia journalism, social media and content strategy.
 
 # Interests to show in About widget
 interests:
@@ -40,18 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/esmemarfo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/esme-marfo-bb9ba5140/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -69,6 +63,5 @@ highlight_name: true
 
 Experienced Staff Writer with a demonstrated history of working in the online news industry. Skilled in Communication, High Pressure Environment, Leadership, Skilled Multi-tasker, and Editing. Strong media and communication professional. Senior at The George Washington University- Milken Institute School of Public Health majoring in Public Health and minoring in Journalism & Mass Communications.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
