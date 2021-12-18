@@ -33,6 +33,16 @@ experience:
         
         Assist with the planning and preparation, including call for applications, outreach events, processing applications and liaising with applicants. Assist with marketing and communications, including creating social media and blog posts.Take part in team meetings, and assist with the running of occasional OWM events.
         
+  - title: Social Media Manager
+    company: MJD Collective
+    location: Boston, MA
+    date_start: '2020-04-01'
+    date_end: '2021-01-01'
+    description: |2-
+        Responsibilities:
+    
+        MJD Collective is a wedding and events planning company. Responsible for maintaining companies social media presence, creating+posting content and encouraging audience engagement.               
+        
   - title: Staff Writer
     company: Affinity Magazine
     company_url: 'http://affinitymagazine.us/'
@@ -44,15 +54,6 @@ experience:
     
         Generate ideas for future stories and features that would interest the magazine’s readers. Perform research on various topics. Stay up to date with current trends. Write features and stories.
         
-  - title: Social Media Manager
-    company: MJD Collective
-    location: Boston, MA
-    date_start: '2020-04-01'
-    date_end: '2021-01-01'
-    description: |2-
-        Responsibilities:
-    
-        MJD Collective is a wedding and events planning company. Responsible for maintaining companies social media presence, creating+posting content and encouraging audience engagement.        
 design:
   columns: '2'
 ---
